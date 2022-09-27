@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basic Address Book</string>
+
+    <string name="add_contact">Add Contact</string>
+    <string name="add_new_contact">Add New Contact</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="export_as_json">Export as JSON</string>
+    <string name="export_as_xml">Export as XML</string>
+</resources>

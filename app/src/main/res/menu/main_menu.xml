@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/exportJSON"
+        android:title="@string/export_as_json"
+        app:showAsAction="never"
+        android:visible="false"/>
+
+    <item
+        android:id="@+id/exportXML"
+        android:title="@string/export_as_xml"
+        app:showAsAction="never"/>
+</menu>
