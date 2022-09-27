@@ -20,14 +20,14 @@ Basic Address Book Kotlin is composed of 4 main screens - Contacts List, Add New
 
 
 ### Main Screen
-The main screen displays the list of all the contacts with their profile picture along with a call button and an email button for each contact.
+The main screen displays the list of all the contacts with their name along with a call button and an email button for each contact.
 
 
 ### Add New Contact
-Add New Contact screen allows the user to add all the details of the contact such as their profile picture, name, phone number and email address. Save button saves all the details and displays the newly created contact on the main screen while cancel button navigates the user back to the main screen without saving any information.
+Add New Contact screen allows the user to add all the details of the contact such as their name, phone number and email address. Save button saves all the details and displays the newly created contact on the main screen while cancel button navigates the user back to the main screen without saving any information.
 
 ### Contact Details
-Contact Details allows the user to view the contact's profile picture, name, phone number and email address. It also displays a trash icon on the bottom left to delete the contact and an extended edit floating action button to edit the contact details.
+Contact Details allows the user to view the contact's name, phone number and email address. It also displays a trash icon on the bottom left to delete the contact and an extended edit floating action button to edit the contact details.
 
 ### Edit Contact
 Edit Contact pre-populates the original details of the contact on the screen and allows the user to make necessary changes. Save button saves the contact's new details and cancel button discards the changes.
